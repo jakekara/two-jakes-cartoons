@@ -50,3 +50,8 @@ margin-left: auto;
 section {
 margin-bottom: 80px;
 }
+
+footer {
+    color: gray;
+    font-size: 12px;
+}
